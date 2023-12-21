@@ -1,8 +1,7 @@
 # Teste
 ```json
 {
-  "tag_key": "application-autoscaling:resourceId",
-  "cluster_rds": "cluster_name"
+  "tag_key": "application-autoscaling:resourceId"
 }
 ```
 ## Create EventBridge
